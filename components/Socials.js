@@ -3,10 +3,10 @@ import Link from 'next/link';
 
 // icons
 import {
-  RiYoutubeLine,
-  RiInstagramLine,
-  RiFacebookLine,
-  RiDribbbleLine,
+  RiTwitterLine,
+  RiLinkedinLine,
+  RiMediumLine,
+  RiGmailLine,
   RiBehanceLine,
   RiPinterestLine,
 } from 'react-icons/ri';
@@ -15,23 +15,15 @@ const Socials = () => {
   return (
     <div className='flex items-center gap-x-5 text-lg'>
       <Link href={'https://twitter.com/zbailey83'} className='hover:text-accent transition-all duration-300'>
-        <RiYoutubeLine />
+        <RiTwitterLine />
       </Link>
-      <Link href={''} className='hover:text-accent transition-all duration-300'>
-        <RiFacebookLine />
+      <Link href={'https://linkedin.com/zbailey83'} className='hover:text-accent transition-all duration-300'>
+        <RiLinkedinLine />
       </Link>
-      <Link href={''} className='hover:text-accent transition-all duration-300'>
-        <RiInstagramLine />
+      <Link href={'https://promptpro.medium.com'} className='hover:text-accent transition-all duration-300'>
+        <RiMediumLine />
       </Link>
-      <Link href={''} className='hover:text-accent transition-all duration-300'>
-        <RiDribbbleLine />
-      </Link>
-      <Link href={''} className='hover:text-accent transition-all duration-300'>
-        <RiBehanceLine />
-      </Link>
-      <Link href={''} className='hover:text-accent transition-all duration-300'>
-        <RiPinterestLine />
-      </Link>
+    
     </div>
   );
 };
