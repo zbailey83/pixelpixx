@@ -31,7 +31,7 @@ const Work = () => {
               exit='hidden'
               className='mb-4 max-w-[400px] mx-auto lg:mx-0'
             >
-              My work has been showcased in various platforms, including the "PromptPro AI News & Tools" Medium Blog and the main PromptPro AI website.
+              My work has been showcased on various platforms. These include the PromptPro AI News and Tools Medium Blog and the main PromptPro AI website.
             </motion.p>
           </div>
 
