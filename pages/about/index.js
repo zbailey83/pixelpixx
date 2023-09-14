@@ -130,7 +130,7 @@ const About = () => {
             exit='hidden'
             className='h2'
           >
-            Let us show you what <span className='text-accent'>PixelPix</span> can do for you!
+            Let us show you what <span className='text-accent'>PixelPix</span> can do!
           </motion.h2>
           <motion.p
             variants={fadeIn('right', 0.4)}
