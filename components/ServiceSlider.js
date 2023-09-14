@@ -23,28 +23,28 @@ import { FreeMode, Pagination } from 'swiper';
 export const serviceData = [
   {
     icon: <RxCrop />,
-    title: 'Branding',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    title: 'Front-End Mastery',
+    description: 'Proficient in HTML/CSS (Tailwind), I craft responsive and visually appealing web designs that resonate with the target audience.',
   },
   {
     icon: <RxPencil2 />,
-    title: 'Design',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    title: 'JavaScript & TypeScript',
+    description: 'With a solid foundation in JavaScript and its superset TypeScript, I develop dynamic web applications that are both efficient and user-friendly.',
   },
   {
     icon: <RxDesktop />,
-    title: 'Development',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    title: 'Framework Expertise',
+    description: 'Experienced in NextJS and React, I build scalable and high-performance web applications tailored to client needs.',
   },
   {
     icon: <RxReader />,
-    title: 'Copywriting',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    title: 'Back-end Development',
+    description: 'Skilled in Node, I ensure that the front-end of web applications is well-supported by a robust back-end infrastructure.',
   },
   {
     icon: <RxRocket />,
-    title: 'SEO',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    title: 'Python & Prompt Engineering',
+    description: 'My proficiency in Python extends to prompt engineering, allowing me to craft precise and effective prompts for various applications.',
   },
 ];
 
