@@ -3,23 +3,24 @@ export const testimonialSlider = [
   {
     image: '/t-avt-1.png',
     name: 'Anne Smith',
-    position: 'Customer',
+    position: 'PromptPro Medium Subscriber',
     message:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!',
+      'I recently stumbled upon the PromptPro AI News & Tools Medium Blog and was thoroughly impressed. The insights and tools shared are invaluable for anyone in the AI field. Moreover, the design and user experience of the main PromptPro AI website is top-notch. It is evident that a lot of thought and expertise went into its creation. Highly recommend for anyone looking to delve deeper into AI and prompt engineering!',
   },
   {
     image: '/t-avt-2.png',
-    name: 'Jane Doe',
-    position: 'Customer',
+    name: 'Jane',
+    position: 'Gumroad.com Customer Review',
     message:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!',
+      'The Ultimate Guide to LLM Prompt Engineering eBook is a game-changer. It offers a deep dive into prompt engineering making complex concepts easy to grasp. I have also had the pleasure of using some of the custom-crafted prompts from Prompt Digital Products, and they are nothing short of brilliant. Kudos to the team behind these incredible resources!',
   },
   {
     image: '/t-avt-3.png',
-    name: 'Jhon Doe',
-    position: 'Customer',
+    name: 'Jordan L.',
+    position: 'Startup Chief Marketing Officer',
     message:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!',
+      'The logo design I received from Zach aka PixelPix was nothing short of exceptional. It perfectly encapsulates our brands ethos and stands out in a crowded marketplace. The attention to detail, creativity, and understanding of our vision was evident in the final design. I have received countless compliments on our logo, and it is all thanks to their unparalleled design expertise. Highly recommended for anyone seeking a memorable and impactful brand identity!',
+
   },
 ];
 
