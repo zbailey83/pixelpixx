@@ -22,7 +22,7 @@ const Services = () => {
               exit='hidden'
               className='h2 xl:mt-8'
             >
-              My services <span className='text-accent'>.</span>
+              MY SKILLS <span className='text-accent'>.</span>
             </motion.h2>
             <motion.p
               variants={fadeIn('up', 0.4)}
@@ -31,8 +31,8 @@ const Services = () => {
               exit='hidden'
               className='mb-4 max-w-[400px] mx-auto lg:mx-0'
             >
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. A
-              eveniet dignissimos distinctio tempore harum laudantium.
+              I'm a passionate web developer with a keen eye for front-end design and a deep interest in the evolving world of web3. My journey in the digital realm has been marked by a blend of creativity and technical prowess. I believe in crafting digital experiences that are not only visually stunning but also functionally robust. With the rise of decentralized technologies, I've immersed myself in web3, ensuring that I'm at the forefront of this digital revolution. 
+              Beyond coding, I'm an advocate for integrating AI into businesses, helping them harness the power of machine learning and automation to drive growth and efficiency.
             </motion.p>
           </div>
 
