@@ -31,8 +31,7 @@ const Services = () => {
               exit='hidden'
               className='mb-4 max-w-[400px] mx-auto lg:mx-0'
             >
-            I am a passionate web developer with a keen eye for front end design and a deep interest in the evolving world of web3. My journey in the digital realm has been marked by a blend of creativity and technical prowess. I believe in crafting digital experiences that are not only visually stunning but also functionally robust. With the rise of decentralized technologies, I have immersed myself in web3, ensuring that I am at the forefront of this digital revolution. 
-              I have also acted as an advocate for integrating AI into businesses and helping them harness the power of machine learning and automation to drive growth and efficiency.
+            I am a passionate web developer with a keen eye for front end design and a deep interest in the evolving world of web3. My journey in the digital realm has been marked by a blend of creativity and technical prowess. I believe in crafting digital experiences that are not only visually stunning but also functionally robust.
             </motion.p>
           </div>
 
