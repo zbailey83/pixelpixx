@@ -49,6 +49,7 @@ import { Pagination } from 'swiper';
 
 // icons
 import { BsArrowRight } from 'react-icons/bs';
+import { SiGnometerminal } from "react-icons/si";
 // next image
 import Image from 'next/image';
 
@@ -88,7 +89,7 @@ const WorkSlider = () => {
                           </div>
                           {/* icon */}
                           <div className='text-xl translate-y-[500%] group-hover:translate-y-0 transition-all duration-300 delay-200'>
-                            <BsArrowRight />
+                            <SiGnometerminal />
                           </div>
                         </div>
                       </div>
