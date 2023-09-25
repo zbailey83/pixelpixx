@@ -11,7 +11,7 @@ import {
   RiPinterestLine,
 } from 'react-icons/ri';
 
-import { SiGumroad } from "react-icons/si";
+import { SiGumroad, SiGithub } from "react-icons/si";
 
 const Socials = () => {
   return (
@@ -27,6 +27,9 @@ const Socials = () => {
       </Link>
       <Link href={'https://promptpro.medium.com'} className='hover:text-accent transition-all duration-300'>
         <RiMediumLine />
+      </Link>
+      <Link href={'https://github.com/zbailey83'} className='hover:text-accent transition-all duration-300'>
+        <SiGithub />
       </Link>
     
     </div>
