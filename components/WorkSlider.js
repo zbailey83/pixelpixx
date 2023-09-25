@@ -31,14 +31,6 @@ export const workSlider = {
           title: 'title',
           path: '/doom2-thumb.png',
         },
-        {
-          title: 'title',
-          path: '/doom2-thumb.png',
-        },
-        {
-          title: 'title',
-          path: '/pixelpixghost-thumb.png',
-        },
       ],
     },
   ],
