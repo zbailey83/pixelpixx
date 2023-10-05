@@ -27,7 +27,7 @@ const Home = () => {
             className='h1'
           >
             Transforming Ideas<br /> Into Reality{' '}
-            <br /><span className='text-accent'>Web3Devs.Site</span>
+            <br />Web3Devs<span className='text-accent'>.Site</span>
           </motion.h1>
           {/* subtitle */}
           <motion.p
