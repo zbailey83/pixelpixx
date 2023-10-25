@@ -37,7 +37,7 @@ const Home = () => {
             exit='hidden'
             className='max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16'
           >
-            Web development and design solutions to any of your business needs.
+            Web development and design solutions for all that your business needs.
           </motion.p>
           {/* btn */}
           <div className='flex justify-center xl:hidden relative'>
