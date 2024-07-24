@@ -27,7 +27,7 @@ const Home = () => {
             className='h1'
           >
             Transforming Ideas<br /> Into Reality{' '}
-            <br /><span className='text-accent'>Web3Devs.Site</span>
+            <br /><span className='text-accent'>DYOR Design</span>
           </motion.h1>
           {/* subtitle */}
           <motion.p
@@ -37,7 +37,7 @@ const Home = () => {
             exit='hidden'
             className='max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16'
           >
-            Web development and design solutions for all that your business needs.
+            Web3 Solutions Keeping You Ahead of the Pack.
           </motion.p>
           {/* btn */}
           <div className='flex justify-center xl:hidden relative'>
