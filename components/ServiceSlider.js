@@ -23,28 +23,28 @@ import { FreeMode, Pagination } from 'swiper';
 export const serviceData = [
   {
     icon: <RxCrop />,
-    title: 'Front-End Mastery',
-    description: 'Proficient in HTML/CSS (Tailwind), I craft responsive and visually appealing web designs that resonate with the target audience.',
+    title: 'Web3',
+    description: 'Solidity, RUST, Solana Blinks, NFTs',
   },
   {
     icon: <RxPencil2 />,
-    title: 'JavaScript & TypeScript',
-    description: 'With a solid foundation in JavaScript and its superset TypeScript, I develop dynamic web applications that are both efficient and user-friendly.',
+    title: 'Content Creator',
+    description: 'Social Media content in the form of long form blog posts, promo images, memes and everything in-between.',
   },
   {
     icon: <RxDesktop />,
-    title: 'Framework Expertise',
-    description: 'Experienced in NextJS and React, I build scalable and high-performance web applications tailored to client needs.',
+    title: 'AI Tools and Automation Solutions',
+    description: 'Expertise in finding the perfect application(s) of AI for automation in your business.',
   },
   {
     icon: <RxReader />,
-    title: 'Back-end Development',
-    description: 'Skilled in Node, I ensure that the front-end of web applications is well-supported by a robust back-end infrastructure.',
+    title: 'SEO and Growth',
+    description: 'Let us increase your visibility in Google search results, in just a matter of weeks.',
   },
   {
     icon: <RxRocket />,
-    title: 'Python & Prompt Engineering',
-    description: 'My proficiency in Python extends to prompt engineering, allowing me to craft precise and effective prompts for various applications.',
+    title: 'Design',
+    description: 'Product design, including high-end men's fashion apparel',
   },
 ];
 
