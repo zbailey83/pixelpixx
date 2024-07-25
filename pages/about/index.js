@@ -130,7 +130,7 @@ const About = () => {
             exit='hidden'
             className='h2'
           >
-            Let us show you what <span className='text-accent'>Web3Devs.Site</span>
+            Experience DYOR Design<span className='text-accent'> Today!</span>
           </motion.h2>
           <motion.p
             variants={fadeIn('right', 0.4)}
