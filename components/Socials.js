@@ -22,7 +22,7 @@ const Socials = () => {
       <Link href={'https://www.linkedin.com/in/zbailey83'} className='hover:text-accent transition-all duration-300'>
         <RiLinkedinLine />
       </Link>
-     <Link href={'https://promptpro.gumroad.com'} className='hover:text-accent transition-all duration-300'>
+     <Link href={'https://autoai.gumroad.com'} className='hover:text-accent transition-all duration-300'>
         <SiGumroad />
       </Link>
       <Link href={'https://promptpro.medium.com'} className='hover:text-accent transition-all duration-300'>
